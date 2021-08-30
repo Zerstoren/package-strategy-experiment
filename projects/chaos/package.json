@@ -1,0 +1,8 @@
+{
+  "name": "conquestador",
+  "version": "0.0.3",
+  "description": "frontend",
+  "scripts": {
+    "build": "webpack"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "noImplicitAny": false,
+    "sourceMap": false,
+    "outDir": "built",
+    "paths": {
+      "core/*": ["./core/*"]
+    }
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
